@@ -1,0 +1,1 @@
+# Mosquito-trapping-model-in-NetLogo
